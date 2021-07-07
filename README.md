@@ -5,7 +5,6 @@ _This software is exprimental but we accept suggestions and contributions_
 _A bento (弁当, bentō) is a single-portion take-out or home-packed meal of Japanese origin._
 
 Bento Toolkit is a simple and minimal docker container for penetration testers and CTF players.
-
 It has the portability of Docker with the addition of X, so you can also run GUI application (like burp).
 
 ## Prerequisites
